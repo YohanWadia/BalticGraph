@@ -51522,7 +51522,7 @@ s.toString
 q=C.CE.i(0,900)
 q.toString
 i=H.a([new Y.mc("Vilnius",s,n),new Y.mc("Riga",q,m),new Y.mc("Tallinn",C.CX,l)],t.Ch)
-return T.a6_(H.a([M.m_(h,h,h,h,h,h,h,h),new T.fB(C.yP,L.VX("Tasks Track",A.nN(h,h,h,h,h,h,h,h,h,h,h,28,h,C.bF,h,h,!0,h,2,h,h,h,h,h,h)),h),new F.qu(i,new P.V(800,600),k,H.a(["-4","-8","-12","-16","-20"],f),C.k,!0,0,!1,h),T.kY(h,50,h)],t.E),C.ci,C.na)}}
+return T.a6_(H.a([M.m_(h,h,h,h,h,h,h,h),new T.fB(C.yP,L.VX("Tasks Track",A.nN(h,h,h,h,h,h,h,h,h,h,h,28,h,C.bF,h,h,!0,h,2,h,h,h,h,h,h)),h),new F.qu(i,new P.V(1000,600),k,H.a(["-4","-8","-12","-16","-20"],f),C.k,!0,0,!1,h),T.kY(h,50,h)],t.E),C.ci,C.na)}}
 F.Qb.prototype={
 $1(a){return-1*P.a0P(a)/20},
 $S:44}
